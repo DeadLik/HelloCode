@@ -1,0 +1,15 @@
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+I:\Python разработка\Основа\Знакомство с языком программирования C# (лекции)\Examples\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
