@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "u4ftugAOu58Z0Y5w4ifBRCV72IBsceYJD6NRQlelagQCaZtJsPYalt8MYmfnC4AYEs/c1g/HmhCVFwsis0/+dA==",
+  "dgSpecHash": "lULjq0zQOVNC3ogBJBSOqR9cW6OkqdqFZ7F0f3DSLknnrYIdrMhiohOIUsq4p4rtUSuZIV92YlDw6lVW1ZfFgQ==",
   "success": true,
   "projectFilePath": "I:\\Python разработка\\Основа\\Знакомство с языком программирования C# (лекции)\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DeadLik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\DeadLik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\DeadLik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\DeadLik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
